@@ -22,5 +22,5 @@ function changeLeastFavoriteCustomer() {
 
 function favoriteCustomer() {
   let favoriteCustomer = "Hisa";
- let favoriteCustomer = "Brett";
+ const favoriteCustomer = "Brett";
 }
