@@ -19,7 +19,8 @@ function changeLeastFavoriteCustomer() {
   var LeastFavoriteCustomer = "tom";
 }
 
+
 function favoriteCustomer() {
   let favoriteCustomer = "Hisa";
- favoriteCustomer = "Brett";
+ let favoriteCustomer = "Brett";
 }
